@@ -8,3 +8,9 @@ langserve
 uvicorn
 sse_starlette
 locust
+bs4
+pypdf
+langchain-openai
+chromadb
+faiss-cpu
+langchain-ollama

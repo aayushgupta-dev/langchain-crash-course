@@ -1,0 +1,20 @@
+Prompt Engineering : 
+
+
+How to write a prompt - TCREI; T(Task), C(Context), R(Reference), E(Evaluate), I(Iterate);
+
+Iteration Strategies - Retry the framework; Break prompt into small sentence; Try different phrasing; Introduce constraints;
+
+
+MML(Multimodal machine learning) - AI agent/LLM can interact with different kind of data like - text, docs, image, videos, audios, files, etc;
+
+
+Things to care about - Evaluate suitability of LLMs results; Avoid Biasness; Don't feed them sensitive data;
+
+Prompt Chaining - Multiple prompts chained together to achieve a particular task;
+Thought of Prompting - How does a AI agent/LLM reach to a result;
+
+Tree of thought prompting - A tree-like structure representation of steps taken by LLMs to reach a stage;
+Chain of thought prompting - A step-by-step explanation of LLM's thought process for an output; We can guide it by changing of this process, to get better results;
+
+AI Agent(s) - A LLM dedicated for a particular task; A coding assistant(GitHub Co-pilot); An interviewer service(app.zinterview.ai); Agent Sim - simulate interviews for you; Agent X - provide expert feedback on something. 
